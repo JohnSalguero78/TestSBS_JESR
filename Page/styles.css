@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: url('assets/images/do_ui_kit_download_cta_floating_devices-2x.png') no-repeat center center;
+  background-size: cover;
+}
+
+#testimonials {
+  background-color: #f8f9fa;
+}
+
+.carousel-item {
+  text-align: center;
+  padding: 20px;
+}
+
+.carousel-item h5 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.carousel-item p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.carousel-item img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.carousel-item img {
+  max-height: 400px; 
+  object-fit: cover;
+}
+.carousel-item {
+  text-align: center;
+}
+.carousel-item h5 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+.carousel-item p {
+  margin-top: 10px;
+  font-size: 1rem;
+}
